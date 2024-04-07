@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "778019866024",
+    "project_id": "kidsvdoz",
+    "storage_bucket": "kidsvdoz.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:778019866024:android:1eb65daf87dbda7957899d",
+        "android_client_info": {
+          "package_name": "com.gworld.kidsvdoz"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBYZk87ti-UZwGkQDUm0EoezPwmkXoPoDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

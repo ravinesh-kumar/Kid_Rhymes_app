@@ -1,0 +1,9 @@
+{
+  "name": "appone",
+  "displayName": "appone",
+
+
+  "react-native-google-mobile-ads": {
+    "android_app_id": "ca-app-pub-1737096590728070~1284968332"
+  }
+}
